@@ -1,0 +1,11 @@
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+G:\VS\LT.NET_BaiCuoiKi\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form2.resources
